@@ -11,6 +11,6 @@ dani_sclafani <- function() {
     panel.grid.minor.x = element_blank(),
     panel.grid.major.y =  element_line(colour = "cyan4", linetype = 3, size = 0.5),
     axis.text = element_text(colour = "red"),
-    axis.title = element_text(colour = "green")
+    axis.title = element_text(colour = "blue")
   )
 }
